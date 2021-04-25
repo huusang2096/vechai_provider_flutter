@@ -1,0 +1,1 @@
+enum FilterEnum {DISTANCE,TOP}
